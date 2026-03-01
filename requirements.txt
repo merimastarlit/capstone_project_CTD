@@ -2,3 +2,4 @@ pandas
 selenium
 dash
 plotly
+webdriver-manager
