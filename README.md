@@ -132,26 +132,3 @@ python3 query_program.py
 ### 4. Launch Dashboard
 
 streamlit run dashboard.py
-
-
-## Sample Dashboard Output
-
-
-
-## Key Insights
-
-- HR leaders often belong to teams with higher win percentages.
-
-- Offensive performance trends fluctuate across seasons.
-
-- Certain years show notable spikes in HR averages.
-
-- Player performance and team success show measurable correlation.
-
-## Deployment
-
-- The Streamlit dashboard is deployed publicly via Streamlit Cloud.
-
-- Access it here:
-
-https://your-streamlit-link.streamlit.app 
