@@ -1,7 +1,7 @@
 
 # American League Stats Dashboard (2015–2025)
 
- **Live Demo:** https://your-streamlit-link.streamlit.app  
+ **Live Demo:** https://baseballprojectctd-47.streamlit.app/ 
 
 ---
 
@@ -153,4 +153,4 @@ The Streamlit dashboard is deployed publicly via Streamlit Cloud.
 
 Access it here:
 
-👉 https://your-streamlit-link.streamlit.a
+https://baseballprojectctd-47.streamlit.app/
