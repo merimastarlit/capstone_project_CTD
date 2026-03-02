@@ -4,5 +4,4 @@ dash
 plotly
 webdriver-manager
 plotly-express
-streamlit
-altair==4.2.2
+streamlit>=1.37
